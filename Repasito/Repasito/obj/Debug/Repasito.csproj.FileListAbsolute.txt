@@ -1,0 +1,7 @@
+C:\Users\omarr\OneDrive\Desktop\VS\RepasitoFast\Repasito\Repasito\bin\Debug\Repasito.exe.config
+C:\Users\omarr\OneDrive\Desktop\VS\RepasitoFast\Repasito\Repasito\bin\Debug\Repasito.exe
+C:\Users\omarr\OneDrive\Desktop\VS\RepasitoFast\Repasito\Repasito\bin\Debug\Repasito.pdb
+C:\Users\omarr\OneDrive\Desktop\VS\RepasitoFast\Repasito\Repasito\obj\Debug\Repasito.csproj.AssemblyReference.cache
+C:\Users\omarr\OneDrive\Desktop\VS\RepasitoFast\Repasito\Repasito\obj\Debug\Repasito.csproj.CoreCompileInputs.cache
+C:\Users\omarr\OneDrive\Desktop\VS\RepasitoFast\Repasito\Repasito\obj\Debug\Repasito.exe
+C:\Users\omarr\OneDrive\Desktop\VS\RepasitoFast\Repasito\Repasito\obj\Debug\Repasito.pdb
