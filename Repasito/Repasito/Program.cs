@@ -11,6 +11,40 @@ namespace Repasito
 
         static void Main(string[] args)
         {
+            short xd;
+            int assigments;
+            long bigNumber;
+            float pi;
+            double currency;
+            decimal money;
+
+            var variable="Waos";
+            const int ird= 10;
+            int waos= ird;
+
+            
+
+            switch (waos)
+            {
+                case 1:
+                    Console.WriteLine("XEDDD");
+                    break;
+                case 3:
+                    break;
+                default:
+                    Console.WriteLine("");
+                    break;
+            }
+
+
+
+
+
+  
+
+
+
+
             string abd = "XD";
             int a;
             Console.WriteLine("mira lo que dijo este: {0}", abd);
@@ -20,7 +54,8 @@ namespace Repasito
 
             string cd = Console.ReadLine();              Console.WriteLine("mira lo que dijo este: {0}", cd);
              Console.WriteLine("mira lo que dijo este: {0}", gg);
-             Console.WriteLine("mira lo que dijo este: {0}", a);
+             Console.WriteLine(@"mira lo que dijo este: 
+            {0}", a);
 
             String pipapu = Console.ReadLine();
 
