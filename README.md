@@ -15,3 +15,4 @@
 <img width="1600" height="765" alt="RenderDesplegado" src="https://github.com/user-attachments/assets/3bcb953e-bb9a-4f2e-8d2c-63db36647575" />
 <img width="832" height="305" alt="CapturaLogsEdge" src="https://github.com/user-attachments/assets/77327417-f6e3-4fe5-8b2c-fddd8e8c723a" />
 <img width="532" height="212" alt="JsonEdge" src="https://github.com/user-attachments/assets/e44c23cb-e2f0-48d3-bbf2-6d24ec7282c5" />
+<img width="1902" height="845" alt="image" src="https://github.com/user-attachments/assets/0bcb59ac-db87-4030-9a12-b338719b5d42" />
