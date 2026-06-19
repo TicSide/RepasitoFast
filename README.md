@@ -16,3 +16,10 @@
 <img width="832" height="305" alt="CapturaLogsEdge" src="https://github.com/user-attachments/assets/77327417-f6e3-4fe5-8b2c-fddd8e8c723a" />
 <img width="532" height="212" alt="JsonEdge" src="https://github.com/user-attachments/assets/e44c23cb-e2f0-48d3-bbf2-6d24ec7282c5" />
 <img width="1902" height="845" alt="image" src="https://github.com/user-attachments/assets/0bcb59ac-db87-4030-9a12-b338719b5d42" />
+
+
+
+<img width="1897" height="917" alt="image" src="https://github.com/user-attachments/assets/adfd6067-5480-442e-95d9-8f5266c58af4" />
+<img width="1897" height="935" alt="image" src="https://github.com/user-attachments/assets/5c262dfb-e7e8-4d52-883d-4c433eb6faac" />
+<img width="1900" height="936" alt="image" src="https://github.com/user-attachments/assets/9ed04834-9339-46fa-96c0-0fb52e90e622" />
+
